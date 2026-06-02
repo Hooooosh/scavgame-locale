@@ -3,7 +3,7 @@
     "description": "The official developer-created english locale of the game. You can find community translations in the locale repository (<color=\"blue\">https://github.com/Orsoniks/scavgame-locale</color>), though those translations are not quality-checked and might be innacurate or out of date.",
     "main": {
         "bandage": "Kötszer",
-        "bandagedsc": "Egy tekercs kötszer, mely képes vérzést lassítani, töréseket stabilizálni, és a bőr gyógyulását elősegíteni. Nincs hatással az izomzat egészségére.",
+        "bandagedsc": "Egy tekercs kötszer, mely képes vérzést lassítani, töréseket rögzíteni, és segíteni a bőr gyógyulását. Nincs hatással az izomzati egészségre.",
         "rippeddressing": "Tépett kötszer",
         "rippeddressingdsc": "Egy kisebb halom tépett ruhaanyag. Használható ideiglenes kötésként vérző sebekre.",
         "rag": "Régi rongy",
