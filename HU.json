@@ -3188,827 +3188,827 @@
                 "Jól jönne egy fürdő!"
             ],
             "encumbered": [
-                "Carrying a bit much.",
-                "Do I need this much on me..?",
-                "I'm kind of weighed down...",
-                "I should drop some things...",
-                "I should leave some of my belongings, they're really heavy...",
-                "Ough, I'm way too weighed down.",
-                "Carrying too much...",
-                "I'm hoarding too much...",
-                "As much as I feel like all of these things will be useful, I'm really weighed down...",
-                "The load is a little much...",
-                "I feel weighed down by all I am carrying.",
-                "Let's lighten the load a little.",
-                "I'm a bit overloaded with gear.",
-                "Carrying uncomfortably much...",
-                "I'd love to lessen the load a little...",
-                "I need to leave some stuff behind, there's too much on me.",
-                "I really should free up a hand or two. I'm carrying a lot...",
-                "Ugh! Too much gear on me. I feel weighed down.",
-                "Hoarding a little too much... All this gear is heavy."
+                "Elég sok van rajtam.",
+                "Szükségem van ezekre?",
+                "Elég sok van rajtam...",
+                "Le kéne dobjak valamit...",
+                "Ebből nem kell minden, ugye?",
+                "Ugh, túl sok szar van nálam.",
+                "Túl sok van rajtam...",
+                "Túl sok holmi van a hátamon...",
+                "Biztos egyszer hasznos lesz mindez, de ez már kicsit sok...",
+                "Ez már egy kicsit sok...",
+                "Huff... eléggé leterhel ez a sok holmi.",
+                "Könnyítsünk egy kicsit a hátamon.",
+                "Túl sok szar van nálam.",
+                "Túl sokat cipelek...",
+                "Szívesen cipelnék kevesebbet...",
+                "Otthagyhatnék valamit, túl sokat cipelek.",
+                "Jó lenne egy két szabad kéz is. Elég sokat cipelek...",
+                "Ugh! Túl sok szar van rajtam.",
+                "Túl sok at cipelek... Ez így nagyon nehéz."
             ],
             "watchlike": [
-                "I like this watch-thing. It's comfy."
+                "Szeretem ezt a karóra izét. Tök kényelmes."
             ],
             "drillend": [
-                "...That took a while.",
-                "I swear that thing had no soundproofing.",
-                "Pretty long ride there..."
+                "...Ez telt egy időbe.",
+                "Esküszöm ezen nem volt semmilyen szigetelés.",
+                "Elég sokáig tartott..."
             ],
             "loud": [
-                "FUCK! That was loud...",
-                "GAH! Crap! My ears!",
-                "AHHH! Fuck... My ears are ringing...",
-                "CRAP! ... Ouuchhh... That was so loud...",
-                "NO!!! Fuck me, man... Aghhh, that was loud..."
+                "BASZKI! Ez hangos volt!",
+                "BASSZUS! A füleim!",
+                "ÁHHH! Basszus... sípol a fülem...",
+                "BASZKI! ... Auuuu... Ez rohadt hangos volt...",
+                "NE!!! Bassza meg... Ughh, ez hangos volt..."
             ],
             "murderregret": [
-                "Why... Why did I do that..? F-fuck...",
-                "Gh... God... Why..?",
-                "I... That was horrible.. I'm a monster...",
-                "Nhh... Why... Why? That was one of us..."
+                "Ezt... miért csináltam..? B-baszki...",
+                "B-basszus... miért..?",
+                "Én... Ez borzalmas volt.. Szörnyeteg lettem...",
+                "Nhh... Miért... Miért?! Közénk tartozott..."
             ],
             "tradeemeet": [
-                "Hey!",
-                "Hello?",
-                "Oh! Hello!",
+                "Hali!",
+                "Helló?",
+                "Ó! Hali!",
                 "Hm?",
-                "Finally, someone...",
-                "...Hello?",
-                "Hay!",
-                "Hello!"
+                "Végre, valaki...",
+                "...Helló?",
+                "Hé!",
+                "Helló!"
             ],
             "tradermeetnormal": [
-                "Hey!",
-                "Hello!",
-                "Oh! Someone finally came over...",
-                "Oh! Heya.",
-                "Hey! Glad to see someone alive.",
-                "Hey, buddy.",
-                "Welcome!"
+                "Szia!",
+                "Hali!",
+                "Ó! Végre valaki meglátogat...",
+                "Ó! Hali.",
+                "Hé! Jó végre élve látni valakit.",
+                "Hali, haver.",
+                "Üdv!"
             ],
             "tradermeetgood": [
-                "Ah! Hi!!",
-                "Hello! How are ya?",
-                "Aah! Hello!! Hi!"
+                "Áh! Szia!!",
+                "Hali! Mizu?",
+                "Ááh! Halii!! Szia!"
             ],
             "tradermeetbad": [
-                "Hheeyy...I dislike your presence..?",
-                "H... Hello... Uhh...",
-                "...Hey.",
-                "...Hm. Hello."
+                "Hhééé... Nem nagyon örülök hogy itt vagy..?",
+                "H... Helló... Ömm...",
+                "...Hé.",
+                "...Hm. Szia."
             ],
             "traderhugsuccess": [
-                "Awww... Thank you.",
-                "Ahhh... Thank you, buddy.",
-                "Mmmh... Aww, thanks!",
-                "Ah! Mmhh... Thank you...",
-                "Aw! You're so nice!",
-                "...Thank you, I needed that."
+                "Awww... Köszi.",
+                "Ahhh... Köszi, haver.",
+                "Mmmh... Aww, köszi!",
+                "Áh! Mmhh... Köszönöm...",
+                "Aw! Rendes vagy!",
+                "...Köszi. Ez most nagyon kellett."
             ],
             "traderhugfail": [
-                "AHHH! Don't touch me out of nowhere...",
-                "Hey! No touchy.",
-                "Aghh! Hey! No touchies!",
-                "I'll pass...",
-                "No thanks.",
-                "Wh- Hey! Get your paws off of me.",
-                "Hey! Don't touch me! I don't trust you."
+                "ÁHHH! Ne érj hozzám csak úgy...",
+                "Hé! Ne nyúlj hozzám.",
+                "Áhh! Hé! El a kezekkel!",
+                "Inkább máskor...",
+                "Köszi, de nem.",
+                "Mi- Hé! El a mancsokkal.",
+                "Hé! Ne érj hozzám! Nem bízok benned."
             ],
             "traderhagglesuccess": [
-                "...Okay!",
-                "Mmmmhmmm... Got it.",
-                "I'll think about it.",
-                "I'll consider...",
-                "Y-yeah... Sure...",
-                "Makes sense to me!",
-                "Uh huh.",
-                "Hmm... Okay."
+                "...Okés!",
+                "Mmmmhmmm... Jó.",
+                "Meggondolom.",
+                "Talán...",
+                "J-jó... miért is ne...",
+                "Jogos!",
+                "Aha.",
+                "Hmm... Oké."
             ],
             "traderhagglefail": [
-                "You didn't sound very convincing there.",
-                "...No, thanks.",
-                "Nuh uh.",
-                "Not interested.",
-                "What? Why would I do that..?",
-                "Meeehhh... Another time.",
-                "Meh.",
-                "...Nhh...",
-                "...Ugh. Sorry."
+                "Nem vagy túl meggyőző.",
+                "...Köszi, de nem.",
+                "Nem nem.",
+                "Bocsi, nem.",
+                "Mi? Miért tennék ilyet..?",
+                "Áhhhh... Valamikor máskor.",
+                "Eh.",
+                "...Hmm...",
+                "...Áh. Bocs."
             ],
             "traderdepressed": [
-                "...Uh... ...Are you okay? You look a little... Disgruntled...?",
-                "...No greetings or anything...? Wh... Why are you looking at me like that...",
-                "...? ...Um...  ...Hello..? ...You there..?",
-                "...You look terrified. Are you okay? Hello...?",
-                "Hey! How are yooouuuu......you don't look so well there, buddy... Uhm...",
-                "Hey! ...What's with that piercing look? Uhm..."
+                "...Öm... ...Jól vagy? Kicsit... rossz passzban vagy...?",
+                "...Nem is köszönsz...? Mi... Miért nézel rám így...",
+                "...? ...Öm...  ...Helló..? ...Te, ott..?",
+                "...Riadtnak tűnsz. Jól vagy? Helló...?",
+                "Hé! Hogy vaaaagy...... rossz passzban vagy, haver...? Ömm...",
+                "Hé! ...Miért vágsz ilyen arcot? Öm..."
             ],
             "tradergiveitem": [
-                "Thanks!",
-                "Adding that to the count.",
-                "Thank you!",
-                "I'll be needing that.",
-                "Aye! Thanks!",
-                "Good!"
+                "Köszi!",
+                "Már el is számoltam.",
+                "Köszönöm!",
+                "Erre szükségem is lesz.",
+                "Áh! Köszi!",
+                "Jó!"
             ],
             "tradergiveitemrefuse": [
-                "Alright... That's enough for today, my bag's all full.",
-                "Hey, enough gifts! I don't want to give out all my stock to you."
+                "Oké... Mára már elet adtál, tele a zsákom.",
+                "Hé, elég az ajándékokból! Nem akarom neked adni az egész készletem!."
             ],
             "traderbuy": [
-                "Here you are. Cheers!",
-                "Alright! Here's your pick. Good luck out there.",
-                "Have this. Thank ya, mate.",
-                "Here, have this.",
-                "Pleasure doing business with you, haha.",
-                "There."
+                "Tessék. Egészségedre!",
+                "Okés! Itt van amit kértél. Sok sikert odakint.",
+                "Tessék. Köszi, haver.",
+                "Tessék, fogd ezt.",
+                "Öröm volt veled üzletelni, haha.",
+                "Tessék."
             ],
             "traderbuyfail": [
-                "Gimmie a few more things.",
-                "I'm not going first.",
-                "Hand over a few more things first.",
-                "Pay first!"
+                "Adj még egy kicsit.",
+                "Nem fogok elsőnek menni.",
+                "Előbb adj még egy pár dolgot.",
+                "Előbb fizess!"
             ],
             "traderbuyfailmaxvalue": [
-                "Sorry, that's all I'm willing to trade for now.",
-                "Out of stock! Sorry! You've bought so much already..."
+                "Bocsi, egyenlőre csak ennyit fogadok el.",
+                "Kifogyott a készletem! Bocsi! Olyan sokat vettél így is..."
             ],
             "traderwarning": [
-                "Leave.",
-                "Leave. Now.",
-                "Out! Get out!",
-                "Leave this pod.",
-                "I don't like you being here. Leave.",
-                "Leave!",
-                "Out.",
-                "Get out of here!",
-                "Get lost.",
-                "Fuck off!",
-                "Fuck off."
+                "Tünés.",
+                "Kifelé. Most.",
+                "Kifelé! Húzz el!",
+                "Menj innen.",
+                "Nem tetszik a közelséged. Távozz.",
+                "Menj innen!",
+                "Kifelé.",
+                "Húzz a francba!",
+                "Húzz el.",
+                "Menj a faszba!",
+                "Menj a picsába."
             ],
             "tradercombat": [
-                "I'm done with your shit.",
-                "Fuck OFF!",
-                "I'M DONE WITH YOU!",
-                "FUCK YOU!",
-                "OUT! GET OUT! NOW! OUT!",
-                "GET OUT!"
+                "Elegem van a szarságaidból.",
+                "Húzz a FASZBA!",
+                "ELEGEM VAN!",
+                "DÖGÖLJ MEG!",
+                "KIFELÉ! HÚZZ A PICSÁBA! MOST! KIFELÉ!",
+                "MENJ A FASZBA!"
             ],
             "traderthreatensuccess": [
-                "Okay, okay, jeez... Take whatever, just don't hurt me...",
-                "Asshole... Fine. Go ahead. Please leave after.",
-                "Nggh... Fuck you... Take what you want and leave!",
-                "Please don't hurt me! Take something and... Please leave...",
-                "...Okay. Take something and do not come back. Spare the threats."
+                "Oké, oké, nyugi... Vigyél amit akarsz, csak ne bánts...",
+                "Seggfej... jó. Gyerünk. Aztán húzz a picsába.",
+                "Nggh... menj a faszba... Vidd amit akarsz és húzz!",
+                "Kérlek ne bánts! Vigyél valamit, és... Kérlek menj innen...",
+                "...Oké. Fogj valamit és ne gyere vissza. Kímélj a fenyegetésekkel."
             ],
             "traderlightbreak": [
-                "Dude, what the fuck? Why would you do that? Fuck off.",
-                "...Did you really think I would not see that. You fucker. Get out!",
-                "Hey! What the hell! I needed that! Get the fuck out!",
-                "Ahh! You THIEF! Get the hell out!",
-                "Dude. Okay... Okay then. Okay... I... Uh... Please leave."
+                "Ember, mi a fasz? Miért csinálnál ilyet? Menj a faszba!",
+                "...Azt hitted ezt nem fogom látni? Seggfej. Húzz a francba!",
+                "Hé! Mi a fasz! Az kellett nekem! Húzz a picsába!",
+                "Áhh! Te tolvaj! Húzz a faszba!",
+                "Ember. Okés... Jó... Én... Öm... Kérlek menj innen."
             ],
             "traderwakegreet": [
-                "Good mornin'.",
-                "Hi! You're up now.",
-                "Morning, sleepyhead.",
-                "How didya rest?",
-                "Hope you slept well.",
-                "Wakey wakey!"
+                "Jó reggelt.",
+                "Szia! Felkeltél?",
+                "Jóreggelt, álomszuszék.",
+                "Hogy aludtál?",
+                "Remélem jól aludtál.",
+                "Hasadra süt a... nap?"
             ],
             "traderseegun": [
-                "...Woah there! Put that gun away, man... Anyway.",
-                "Hey! What's with the gun? Put that away, please. ...So.",
-                "I hope you're not using that gun, haha.",
-                "Ey, I don't have a gun, so put yours away, bud."
+                "...Na, na... Rakd azt el...",
+                "Hé! Miért van nálad fegyver? Rakd el, légyszi...",
+                "Remélem nem fogod azt használni, haha.",
+                "Hé, nincs fegyverem, szóval rakd el a tiédet, haver."
             ],
             "tradermeetimpairedspeech": [
-                "...Huh? What? Is there something in your mouth? I can't understand you...",
-                "Mmmff mff mmmmfff mhfff! That's what you sound like.",
-                "I get that this is a bad scenario we're in, but you can atleast put in some effort into speaking clearly..."
+                "...Hm? Mi? Valami van a szádban? Nem értelek...",
+                "Mmm mm mmmm mmmh! Ilyen vagy most.",
+                "Értem hogy szar helyzetben vagyunk, de legalább fektethetnél erőt abba hogy tisztán beszélj..."
             ],
             "traderseehurt": [
-                "Since you're hurt, I'll let ya grab a bandage for free if you can find one around here...",
-                "Aww, you're hurt. If you can find a bandage on me, you can take it! I don't remember if I have one...",
-                "Ohh, you don't seem to be doing well... Tell ya what, you can grab a bandage for free if you see one."
+                "Látom megsérültél, nyugodtan kapj fel egy kötözőt, ha találsz egyet...",
+                "Aww, megsérültél. Ha találsz itt valahol kötszert, nyugodtan vedd el! Nem emlékszem hogy most van e nálam...",
+                "Óhh, elég szarul nézel ki... Tudod mit, ha találsz itt egy kötszert nyugodtan vedd el."
             ],
             "tradermove": [
-                "Oh, sorry. Here."
+                "Ó, bocsi. Tessék."
             ],
             "tradermovefail": [
-                "Huh? Why? What are you trying to do..? I don't trust you."
+                "Hm? Miért? Mit próbálasz csinálni..? Nem bízok benned."
             ],
             "swingresponse": [
-                "I'M SORRY!",
-                "STOP IT!",
-                "AGH!",
-                "QUIT!",
-                "FUCKER!",
-                "Stop!",
-                "AAH!",
+                "BOCSÁNAT!",
+                "ÁLLJ!",
+                "ÁGH!",
+                "FEJEZD BE!",
+                "BASZKI!",
+                "Állj!",
+                "ÁÁH!",
                 "NGH!",
-                "FUCK.",
-                "Fuck. Fuck. Fuck!",
-                "YOU!"
+                "BASZKI.",
+                "Basszus. Basszus. Basszus!",
+                "TE!"
             ],
             "braindamaged": [
-                "I taste metal.",
-                "Did I eat something metallic?",
-                "I didn't know metal had a smell.",
-                "There's a metal taste in my mouth...",
-                "...Metal...?",
-                "What     is  happening",
-                "This      this  is    wrong .",
-                "I'm smelling something REALLY weird...",
-                "This isn't right. I feel a metallic taste...",
-                "Nor something angrily nor blissfully few?",
-                "An no one ourselves dry for invent by means of a most.",
-                "Very Well! Dynamics two zero nine fourty-two thre two two eight two seven.",
-                "Villa hastily the oho! Onto no one?",
-                "Good! Certainty someone itself I urgently!",
-                "For as oddly whom urgently him mate rats! Miner herself right on.",
-                "Expand ptui!",
-                "Travel truthfully deflation the improve which one another an a?",
-                "I see shadows in my eyes...",
-                "The colors of everything... It all tastes wrong...",
-                "...Wh... ...What... Yeah... Yes!",
-                "I smell copper.",
-                "This smell does not smell possible...",
+                "Valami fémeset érzek.",
+                "Valami fémeset ettem?",
+                "Nem tudtam, hogy a fémnek íze van.",
+                "Fémes íz van a számban...",
+                "...Fém íz...?",
+                "Mi     történik",
+                "Valami      valami  mincs    rendben .",
+                "Valami NAGYON fura szagot érzek...",
+                "Valami nincs rendben. Fémes ízt érzek...",
+                "Se semmi mérgesen sem csodálatosan kevés?",
+                "Egy nem senki magunkat vinni hogy kitalálkunk egy jó úton.",
+                "Csodálatos! Kettő nulla kilenc negyvenkettő három kettp kettő nyolc kettő hét.",
+                "Villa gyorsan aha! Senki?",
+                "Jó! Bizonyára valaki önmagát én magamat!",
+                "Akinek furán aki sürgősen magát patkány! Bányász magát pont jól!",
+                "Szerszám tárulj!",
+                "Igazan utazz lefújva ami melyik egy másik egy?",
+                "Foltokat látok a szemeimben...",
+                "Itt minden színének... Fura íze van...",
+                "...M... ...Mi... Aha... Persze!",
+                "Réz szag van.",
+                "Ez a szag nem lehet valós...",
                 "Si tir ti vucot svaklar si mi.",
-                "The",
-                "Ough! I taste metal... So much metal...",
+                "Az",
+                "Uhh! Fémet érzek... Olyan erős fémes ízt...",
                 "Kovgam varmunch persvek sia narod!",
-                "Since when does everything smell like this..?",
-                "This tastes wrong. Very wrong... Am I sick..?",
+                "Mióta van mindennek ilyen szaga..?",
+                "Ennek nem ilyen szagának kéne lennie. Nagyon nem... Beteg vagyok..?",
                 "Gh... Hh-h...",
-                "What was that!?",
-                "Am... Am I imagining things..?"
+                "Az mi volt!?",
+                "Kép... képzelődök..?"
             ],
             "lastmoments": [
-                "I don't... want to die... I don't want to die...",
-                "Please... Please... Someone save... Save me...",
-                "I don't want to die... Please... Please...",
-                "Not... Not like this... Please... Help me...",
-                "H-help... Someone... I don't w-want to die...",
-                "I don't... I don't want to leave this world...",
-                "Save me... Save me... S-save me... Please...",
-                "This.. Is... H-h... Is this how... How it ends...",
-                "All... Everything I've done... To... To lead up to t-this... Save m-me...",
-                "No.. No.... N-no... Please... Please... I don't... I-I don't want to d-die... Help me...",
-                "Ffhh... Gh.... Help me... Please... Anyone...",
-                "Nhh... Not like t-this... Please... P-please... Save me...",
-                "Please... I don't... I don't want to die... Save me... Anyone... Anything... I-I'm not r-ready...",
-                "W-Will it be.. Over s-soon..?",
-                "Stop... Stop... Stop... Please... S-stop... Not l-like this... Save me...",
-                "Fuck... Fuck... Help me... I don't... Want to d-die... H-h.."
+                "Nem... akarok meghalni... Nem akarok meghalni...",
+                "Könyörgök... Könyörgök... Valaki mentsen... Mentsen meg...",
+                "Nem akarok meghalni... Könyörgök... Könyörgök...",
+                "Nem... Nem így... Könyörgök... Segítség...",
+                "S-segítség... Valaki... Nem a-akarlok meghalni...",
+                "Nem... Nem akarok így meghalni...",
+                "Ments meg... Ments meg... M-ments meg... Kérlek...",
+                "Ez... Ez... Így fogok... meghalni...?",
+                "Minden... Minden amit sikerült... sikerült elérnem... segítség...",
+                "Nem.. Nem.... N-nem... Kérlek... Kérlek... Nem... N-nem akarok meghalni... Segítség...",
+                "Ffhh... Gh.... Segítség... Kérlek... Valaki...",
+                "Nhh... Nem így akarok... Kérlek... K-kérlek... Ments meg...",
+                "Könyörgök... Nem... Nem akarok meghalni... Mentsen meg... Valaki... Bárki... Nem állok készen...",
+                "M-mostmár... Vége lesz..?",
+                "Állj... Ne... Könyörgök... Kérlek... Á-állj... Ne így... Segítség...",
+                "A picsába... Faszom... Segítség... Nem... Nem akarok meghalni... H-h.."
             ]
         },
         {
             "tradermeetnormal": [
-                "Greetings.",
-                "Hello.",
-                "My pleasure to meet you.",
-                "Ah! Hello there!",
-                "Welcome, fellow traveler.",
-                "Greetings to you.",
-                "Welcome.",
-                "Nice to meet you!",
-                "I hope all is well."
+                "Üdvözlet.",
+                "Helló.",
+                "Örvendek.",
+                "Ah! Jó napot!",
+                "Üdvözöllek.",
+                "Üdv neked.",
+                "Isten hozott.",
+                "Örvendek a találkozásnak.",
+                "Remélem, minden a legnagyobb rendben."
             ],
             "tradermeetgood": [
-                "I'm honored to see another survivor.",
-                "Oh! Hello! How are you doing, friend?",
-                "Greetings, dear. How are you doing?",
-                "Ah! Greetings. You look very chipper!",
-                "Ah, how happy I am to see someone like you!"
+                "Megtiszteltetés egy másik túlélőt látni.",
+                "Ó! Helló! Hogy vagy, barátom?",
+                "Üdv, barátom. Hogy vagy?",
+                "Áh! Üdv. Nagyon jókedvűnek tűnsz.",
+                "Áh, de örülök hogy láthatlak!"
             ],
             "tradermeetbad": [
-                "...I am not impressed.",
-                "Ough. Hello...",
-                "...You confound me. Greetings.",
-                "...Hello.",
-                "Greetings. Please refrain from touching me.",
-                "Hello, fellow survivor.",
-                "Greetings. Please use the door next time.",
-                "Welcome.",
-                "Greetings."
+                "...Nem vagyok lenyűgözve.",
+                "Uh.. Helló...",
+                "...Összezavarsz. Üdv.",
+                "...Helló.",
+                "Üdv. Ne érj hozzám.",
+                "Helló...",
+                "Üdv. Legközelebb kérlek használdt az ajtót.",
+                "Isten hozott...",
+                "Üdv..."
             ],
             "traderwakegreet": [
-                "Good morning.",
-                "Hey, you're finally awake.",
-                "Greetings, you've awoken.",
-                "Guess who's awake!",
-                "Sleepyhead. Welcome back!",
-                "You were sleeping like a puppy, haha..."
+                "Jó reggelt.",
+                "Végre felébredtél.",
+                "Üdv, felébredtél.",
+                "Találd ki, ki van ébren!",
+                "Álomszuszék. Üdv újra!",
+                "Úgy alszol mint a bunda, haha..."
             ],
             "tradergiveitem": [
-                "Thank you.",
-                "That'll come in useful.",
-                "Thank you for the contribution.",
-                "I'm taking this.",
-                "Useful.",
-                "My pleasure.",
-                "I'll make good use of this."
+                "Köszönöm.",
+                "Ez hasznos lesz.",
+                "Köszönöm!",
+                "Ezt viszem is.",
+                "Hasznos.",
+                "Szívesen.",
+                "Jól fogom használni."
             ],
             "tradergiveitemrefuse": [
-                "This is enough for now. I have no more space for these trinkets.",
-                "You may stop gifting me things, I'd prefer not giving out everything else on me."
+                "Mosmtár elég. Nincs több helyem ilyenekre.",
+                "Nem kell több ajándék. Nem szívesen osztanám szét mindenemet."
             ],
             "traderhagglesuccess": [
-                "Fine.",
-                "I will make an exception for you.",
-                "Ah, you seem nice.",
-                "You make a good point.",
-                "I accept your request.",
-                "I hear you, buddy. Sure.",
-                "I have to agree.",
-                "Affirmative..."
+                "Rendben.",
+                "Kivételt teszek veled.",
+                "Ah, szimpatikusnak tűnsz.",
+                "Igazad van.",
+                "Kérésed elfogadva.",
+                "Értelek. Persze.",
+                "Egyet kell értenem.",
+                "Rendben..."
             ],
             "traderhagglefail": [
-                "How about no?",
-                "I'm not a damn charity.",
-                "I only accept facts and logic, not uncoordinated pleas.",
-                "No.",
-                "That was the worst argument I've ever heard.",
-                "I have to deny your appeal.",
-                "Negative.",
-                "No exceptions, sorry."
+                "És ha inkább nem?",
+                "Nem vagyok szeretetszolgálat.",
+                "Csak tényeket és logikát fogadok el, nem valami könyörgést.",
+                "Nem.",
+                "Ez volt a legrosszabb érv amit valaha hallottam.",
+                "El kell utasítanom.",
+                "Negatív.",
+                "Nincs kivétel, sajnálom."
             ],
             "traderbuy": [
-                "No refunds.",
-                "Here you are.",
-                "Don't break it.",
-                "Good luck with this.",
-                "I hope you know how to use this.",
-                "Hope it'll be useful.",
-                "Here's your reward."
+                "Távozás után reklamációt nem fogadok el.",
+                "Tessék.",
+                "Ne törd össze.",
+                "Sok szerencsét.",
+                "Remélem jól tudod majd használni.",
+                "Remélem hasznos lesz.",
+                "Tessék, vidd."
             ],
             "traderbuyfail": [
-                "No.",
-                "I'm not a charity.",
-                "I don't give out things for free.",
-                "Pay up first.",
-                "I'm not giving you anything without an appropriate return.",
-                "Do I look like a charity to you?",
-                "You're joking.",
-                "How insulting."
+                "Nem.",
+                "Nem vagyok szeretetszolgálat.",
+                "Nem adok ingyen semmit.",
+                "Előbb fizess te.",
+                "Nem adok semmit ellenszolgáltatás nélkül.",
+                "Szeretetszolgálatnak nézek ki?",
+                "Ugye viccelsz.",
+                "Ez sértő."
             ],
             "traderbuyfailmaxvalue": [
-                "Enough trading for today. You've bought out a lot already.",
-                "I don't wish to thoroughly swap our possessions. Let's call it a day."
+                "Mára elég a kereskedésből. Már így is túl sokat vettél tőlem.",
+                "Nem akarom teljesen kicserélni a holmijainkat. Zárjuk ezt le mára."
             ],
             "traderthreatensuccess": [
-                "It is not in my interests to get hurt. Take whatever and leave.",
-                "Fine. Take your pick and please exit my pod.",
-                "I hope misfortune awaits you. Fine. Take it and leave.",
-                "You are a horrible person, you know that?",
-                "So this is how you solve issues. Mhm. Fine.",
-                "Did it really have to come to this? You know better... Ugh. Fine.",
-                "A robbery was not something present on my bucket list. But, fine. Just don't hurt me."
+                "Nem érdekem meghalni. Vigyél, amit akarsz, és menj.",
+                "Rendben. Válassz, amit akarsz, és kérlek hagyd el a kapszulámat.",
+                "Remélem balszerencse vár rád. Rendben. Vigyél amit akarsz és menj.",
+                "Borzalmas lény vagy, tudod?",
+                "Szóval így oldod meg a problémákat. Hm. Rendben.",
+                "Tényleg idáig kellett fajulnia? Azt hittem jobb vagy ennél... Ugh. Rendben.",
+                "A kirablás nem szerepelt a bakancslistámon. De rendben. Csak ne bánts."
             ],
             "traderwarning": [
-                "Leave at once.",
-                "I do NOT appreciate your presence. Leave.",
-                "OUT.",
-                "Do you not think I'm serious? Out.",
-                "Get. Out.",
-                "Please. Leave.",
-                "Leave.",
-                "I'm not dealing with you right now.",
-                "Please leave my pod in peace. I got here first."
+                "Azonnal távozz.",
+                "NEM értékelem a jelenléted. Tűnés.",
+                "Ki.",
+                "Azt hiszed nem tudom magam megvédeni? Kifelé.",
+                "Takarodj.",
+                "Kérem. Kifelé.",
+                "Menj.",
+                "Nem tárgyalok veled. Kifelé.",
+                "Hagyd el a kapszulámat."
             ],
             "tradercombat": [
-                "I didn't want it to come to this.",
-                "Fucking imbecile.",
-                "Get the fuck out.",
-                "Oh, FUCK you!",
-                "GET OUT!",
-                "This is MY POD! OUT!",
-                "I'm NOT tolerating another moment of YOUR presence!"
+                "Nem akartam hogy ez idáig fajuljon.",
+                "Kibaszott idióta.",
+                "Takarodj a picsába.",
+                "A francba veled!",
+                "TAKARODJ!",
+                "Ez az ÉN KAPSZULÁM! KIFELÉ!",
+                "Egy PERCIG sem tűröm tovább a jelenléted!"
             ],
             "traderhugsuccess": [
-                "Ahh... I'll... I'll allow it.",
-                "How affectionate...",
-                "Awww. You really needed that...",
-                "Aww, what a nice person you are.",
+                "Áhh... Hát... megengedem. Most az egyszer.",
+                "Milyen szeretetteljes...",
+                "Úgy tűnik tényleg szükséged van erre...",
+                "De kedves vagy.",
                 "Mmmhh...",
-                "What a display of affection..."
+                "Micsoda szeretetnyilvánítás..."
             ],
             "traderhugfail": [
-                "NO TOUCHIES!",
-                "Refrain.",
-                "Cease. Do not embrace me.",
-                "No. Stop. Do not touch me.",
-                "Ew! Get your hands off of me."
+                "NE ÉRJ HOZZÁM!",
+                "Tartózkodj.",
+                "Elég. Ne ölelj meg.",
+                "Nem. Állj. Ne érj hozzám.",
+                "Fúj! Tedd le rólam a mancsod."
             ],
             "traderseegun": [
-                "Before we talk, please remove that gun from your person. Anyway...",
-                "I hope this isn't a robbery. If not, put the gun away... Either way...",
-                "Get that gun away from me, this isn't an active shootout. Anyway...",
-                "Are you TRYING to make yourself a threat to me or do you just think the gun looks cool..?"
+                "Mielőtt beszélünk, kérlek tedd el azt a fegyvert.",
+                "Remélem, ez nem egy rablás. Ha nem, tedd el a fegyvert...",
+                "Tartsd távol tőlem azt a fegyvert, ez nem egy aktív tűzharc.",
+                "Szándékosan próbálsz fenyegetőnek tűnni, vagy csak menőnek tartod a fegyvereket..?"
             ],
             "tradermeetimpairedspeech": [
-                "What are you saying..? I can't understand you.",
-                "Your speech is extremely muffled. Just letting you know.",
-                "I can barely make out what you're saying to me."
+                "Mit mondasz..? Nem értelek.",
+                "Alig lehet érteni. Csak szólok.",
+                "Alig tudom kivenni, mit mondasz."
             ],
             "traderseehurt": [
-                "You appear to be injured and bleeding... You can take a bandage if you wish.",
-                "Ew! Please don't bleed all over my floor. Grab a bandage and treat yourself if you see one, mine are free.",
-                "That doesn't look good... You may take a bandage for free if you can find one on me."
+                "Látom vérzel... Ha akarod, vehetsz ingyen egy kötszert.",
+                "Fúj! Kérlek, ne vérezd össze a padlóm. Fogj egy kötést ha látsz egyet, az enyéim ingyen vannak.",
+                "Nem festesz túl jól... Elvehetsz egy kötszert ingyen, ha találsz valahol egyet."
             ],
             "traderlightbreak": [
-                "...Dude. I have eyes. Thief... Leave!",
-                "Oh, you idiot! Leave, now! OUT!",
-                "EY! Fuck you! Get the fuck out!",
-                "Why the fuck would you do that!? Get out! I needed that light!",
-                "Why are you destroying my pod!? Get OUT! LEAVE!"
+                "Nem vagyok vak. Te tolvaj... Kifelé!",
+                "Idióta! Kifelé! MOST!",
+                "Hé! Baszd meg! Menj a picsába!",
+                "Ezt meg mi a faszért csináltad!? Húzz a picsába! Az a lámpa kellett nekem!",
+                "Komolyan rongálod a kapszulámat!? KIFELÉ! TÜNÉS!"
             ],
             "tradermove": [
-                "Okay."
+                "Rendben."
             ],
             "tradermovefail": [
-                "Why would I move for someone like you?"
+                "Miért mozdulnék egy hozzád hasonlóért?"
             ]
         },
         {
             "tradermeetnormal": [
-                "Mmm... Hell-o....",
-                "Well-come... Fri-end...",
-                "F-riend... Hell-o... Have s-it...",
-                "H-i-y... Fr-iend... Per-son...",
-                "Come... He-re... Fri-end...",
-                "Here... Fri-end..."
+                "Mmm... Ü-dv...öz-let....",
+                "Ü-d-vö-z-l-et... Ba-rát...",
+                "Ba-rát... Ü-dv... Fog-lalj he-lyet...",
+                "S-zia... Ba-rát... Lé-ny...",
+                "G-yere... Id-e... Ba-rát...",
+                "I-tt... Ba-rát..."
             ],
             "tradermeetgood": [
-                "GGack! H-i!",
-                "Mmmm... Fri-end... Well-come to... Safe...",
-                "Fri-end! Hel-lo...! How is...",
-                "Dune find... Go-od fri-end!...",
-                "Hel-loo!... Frie-nd... App-ro-ach...",
-                "Ne-w fri-end?.. Dune ha-ppy..."
+                "Ggáá! S-zia!",
+                "Mmmm... Ba-rát... Ü-d-vöz-öll-ek a... Bi-z-tonsá-gba-n...",
+                "Ba-rát! Ü-dv...! Hogy van...?",
+                "Dune ta-lál... Jó ba-rátot!...",
+                "Ü-d-vöz-l-öm!... Ba-rát... Kö-ze-ledj...",
+                "Új ba-rát?.. Dune ör-ül..."
             ],
             "tradermeetbad": [
-                "Grrr... Per-son...",
-                "Nggghhrr... Hel-lo... Per-son...",
-                "Grrrrr... Fri-end... No look tas-ty...",
-                "Grrrr... Bad per-son!.. Grrr...",
-                "Grrrpmh.. Bad!... Not fri-end...",
-                "Dune dis-li-ke... This fri-end!..."
+                "Grrr... L-ény...",
+                "Nggghhrr... S-zia... L-ény...",
+                "Grrrrr... Ba-rát... Nem néz ki fi-nomnak...",
+                "Grrrr... Rossz ré-ny!.. Grrr...",
+                "Grrrpmh.. Rossz!... Nem ba-rát...",
+                "Dune nem sze-ret... E-z a ba-rát!..."
             ],
             "traderwakegreet": [
-                "Frien-d... Wake from nap...",
-                "No mo-re slee-p... Hel-lo..! Wake...",
-                "Awake... Goo-d mor-ning...",
-                "Wake... Fri-end...",
-                "Wa-ke up.. Friend...",
-                "Fri-end slee-p... Wake... Dune gr-eet!"
+                "Ba-rát... Fel-kel szun-di-ból...",
+                "N-incs több al-vás... S-zia..! Éb-redj...",
+                "Éb-ren... Jó reg-gelt...",
+                "Éb-redj... Ba-rát...",
+                "K-e-lj fel.. Ba-rát...",
+                "Ba-rát al-szik... Éb-redj... Dune ü-d-vöz-öl!"
             ],
             "tradergiveitem": [
-                "Dune will ta-ke.",
-                "Accept thin-g..!",
-                "Dune ta-ke thing..!",
-                "Than-k... Fri-end...",
-                "Du-ne nee-d...",
-                "Goo-d... Tha-nk...",
-                "Fri-end gi-ves... Good..."
+                "Dune el-veszi.",
+                "El-fog-adom a-z-t..!",
+                "Dune el-vesz tár-gyat..!",
+                "Kö-szö-nöm... Ba-rát...",
+                "Du-ne kell...",
+                "Jó... Kö-sz...",
+                "Ba-rát ad... Jó..."
             ],
             "tradergiveitemrefuse": [
-                "No more take!",
-                "Is eno-ugh...",
-                "Fri-end.. Not.. Get it.. En-ough...",
-                "Dune n-ot... Take mo-re!",
-                "No! Dune ha-ve eno-ugh..."
+                "Töb-bet már nem vesz!",
+                "Elég...",
+                "Ba-rát.. Nem.. Ér-ti.. Elég...",
+                "Dune nem... vesz töb-bet!",
+                "Nem! Dune-nek elég van..."
             ],
             "traderbite": [
-                "Good... Enjoy tast-e. Like fri-end more!",
-                "Yes... Than-k for... Du-ne din-ner...",
-                "Hmmhhm... Than-k... Good tas-te... Grab any-thing..!",
-                "Eat good... Fri-end good...",
-                "Dune lo-ves fri-end taste...",
-                "Go-od fri-end... Ate we-ll..."
+                "Jó... Él-vezd az í-z-t. Még job-ban sze-ret a ba-rát!",
+                "I-gen... Kö-sz... Dune va-cso-ra...",
+                "Hmmhhm... Kö-sz... Jó í-z... Vi-gyél bár-mit..!",
+                "Esz-ik jól... Ba-rát jó...",
+                "Dune sze-re-ti ba-rát í-zét...",
+                "Jó ba-rát... Jól meg-eb-ed-tünk..."
             ],
             "traderbuy": [
-                "Have thing. Friend des-erve!",
-                "Take thi-ng! As rew-ard...",
-                "Dune gi-ve back gif-t! Fri-end have...",
-                "Du-ne give...",
-                "Dune... Pa-y ba-ck...",
-                "Fri-end give... Once... Dune give too...",
-                "You... Ta-ke thing! Fri-end good..."
+                "Van tárgy. Ba-rát meg-ér-dem-li!",
+                "Vi-gyél tár-gyat! Jutal-mul...",
+                "Dune vi-szonz-za az aján-dékot! Ba-rát kap...",
+                "Du-ne ad...",
+                "Dune... vi-sz-sza-fiz-et...",
+                "Ba-rát ad... Egyszer... Dune is ad...",
+                "Te... Vi-gyél tár-gyat! Ba-rát jó..."
             ],
             "traderbuyfail": [
                 "Grrrr!",
-                "No! Ggrhhr...",
-                "No! Gi-ve own!",
-                "Grrrr... Dune need thi-ng too!",
-                "Du-ne not gif-t... Giv-e now!... Grrrr...",
-                "Fri-end gi-ve fir-st..."
+                "Nem! Ggrhhr...",
+                "Nem! Add a sa-já-todat!",
+                "Grrrr... Dune-nek is kell a tár-gy!",
+                "Du-ne nem aján-dék... Add ide most!... Grrrr...",
+                "Ba-rát ad elő-ször..."
             ],
             "traderbuyfailmaxvalue": [
-                "Gave enough! Go a-way now!",
-                "Dune give so mu-ch... Too much... Fri-end stop...",
-                "Dune not give... Big...",
-                "Grrr... Du-ne kee-p big! Grrrmph...",
-                "Dune ke-ep... Dune nee-d... Mo-re..."
+                "Eleget ad-tál! Most men-j el!",
+                "Dune sokat ad... Túl so-kat... Ba-rát ál-lj meg...",
+                "Dune nem ad... Nagy...",
+                "Grrr... Du-ne meg-tart-ja a nagyot! Grrrmph...",
+                "Dune meg-tart... Dune kell... Töb-b..."
             ],
             "traderthreatensuccess": [
-                "Not need eff-ort... Take thing... Me-an...",
-                "Dune not take up com-bat... Take thi-ng and leave... Ggrhhr...",
-                "Fri-end gr-eat.. Hunter! Dune... Fear... Y-ou take...",
-                "Dune weak-er... Dune give... Up... Ta-ke and lea-ve...",
-                "Don't hu-rt Dune... Ta-ke thi-ng... Lea-ve...",
-                "Dune all-ow evil fri-end take thi-ng... But Dune ha-te fri-end..."
+                "Nem kell er-ő-fesz-ít... Vegyél tár-gyat... Ros-sz...",
+                "Dune nem ha-rc... Vegyél tár-gyat és men-j el... Ggrhhr...",
+                "Ba-rát nagy.. Vadász! Dune... Félel-em... Te vegyél...",
+                "Dune gyen-gébb... Dune ad... El... Vegyél és men-j el...",
+                "Ne bán-ts Dune-t... Vegyél tár-gyat... Men-j el...",
+                "Dune en-gedi a ros-sz ba-rátot ven-ni... De Dune utá-l ba-rá-tot..."
             ],
             "traderwarning": [
-                "Go aw-ay! Or bit-e! Now!",
-                "Mnnnhh... Pre-y is ask for it...",
-                "Gghhrr! LEAVE... AW-AY...",
-                "Go... Away! Fa-r...",
-                "Dune hate fri-end!",
-                "Dune not let fri-end in!... Out!...",
-                "Dune want fri-end out!... No-w!..."
+                "Men-j el! Vagy ha-rap! Most!",
+                "Mnnnh... Zsák-mány kér érte...",
+                "Gghhrr! MENJ... EL!",
+                "Men-j... El! Me-szsze...",
+                "Dune gyű-löli ba-rá-tot!",
+                "Dune nem en-gedi ba-rá-tot be!... Ki!...",
+                "Dune ki ak-ar ba-rá-tot!... Most!..."
             ],
             "tradercombat": [
                 "Nggrrrrr! Grrrrrrr! GAAAAHHH!",
                 "GGHHRRAHHH!",
                 "GNNGHRHHRRRRR!",
-                "FRI-END REGRET CHO0I-CE!",
+                "BA-RÁT MEG-BÁN-T A VÁ-LAS-ZTÁS-T!",
                 "NGGHHRRR...",
-                "GRRRR! DUNE HATE!",
-                "NGHHRRRR... NO MO-RE FRI-END!",
-                "DUNE HA-TE EVIL FRI-END! GRRRR!",
-                "DUNE... FIND... E-NE-MY! M-ON-STER!"
+                "GRRRR! DUNE GYŰ-LÖL!",
+                "NGHHRRRR... NINCS TÖ-BBE BA-RÁT!",
+                "DUNE GYŰ-LÖ-LI A ROS-SZ BA-RÁ-TOT! GRRRR!",
+                "DUNE... TALÁL... ELLEN-SÉ-GET! EL-LEN-SÉ-GET!"
             ],
             "traderhugsuccess": [
-                "Why is fri-end touch...",
-                "Wh-at is fri-end doing..?",
-                "Gnhghr..? Why fri-end touch..?",
-                "Why tou-ch..? Du-ne not get...",
-                "Uhh... Grr... Du-ne not get... Dune allow...",
-                "Fri-end... Why?... Okay...",
-                "Dune not know... Why fri-end... Fri-end can do...",
-                "Dune and fri-end clo-se?... Wh-at..."
+                "Mi-ért érint ba-rát...",
+                "Mi-t csi-nál ba-rát..?",
+                "Gnhghr..? Mi-ért érint ba-rát..?",
+                "Mi-ért érint..? Du-ne nem ér-ti...",
+                "Uhh... Grr... Du-ne nem ér-ti... Dune en-gedi...",
+                "Ba-rát... Mi-ért?... Oké...",
+                "Dune nem tu-da... Mi-ért ba-rát... Ba-rát tenn-i...",
+                "Dune és ba-rát kö-zel?... Mi-ért..."
             ],
             "traderhugfail": [
-                "GRRR! Away! Ggrrn...",
-                "Ngghrr! No! Aw-ay!",
-                "No! Dune not let...",
-                "Dune dis-like fri-end close...",
-                "Grrr! No! Ngghr...",
-                "Fri-end do not app-ro-ach! Grrr... Dune dis-like..."
+                "GRRRR! El! Ggrrn...",
+                "Ngghrr! Nem! El!",
+                "Nem! Dune nem en-gedi...",
+                "Dune nem sze-ret ba-rá-tot kö-zel...",
+                "Grrr! Nem! Ngghr...",
+                "Ba-rát ne kö-ze-lít-sen! Grrr... Dune nem sze-ret..."
             ],
             "traderseegun": [
-                "What friend hold..? St-op!",
-                "Du-ne not com-fort with boom-stick...",
-                "N-no... Dune fear... loud rod...",
-                "Fri-end... Dune f-ear you... Lo-ud sti-ck...",
-                "Why fri-end ho-ld... thing of pain?...",
-                "Dune... Fear in-st-ant... Hurt thing...",
-                "Why fri-end ho-ld... Click-boom... Dune... Dislike...",
-                "Dune fear... Fee-mee-jee?... Pain... Not get...",
-                "Un-fair fi-ghter... Dune... Dislike... Gu-n..."
+                "Mit tar-t ba-rát..? Meg-áll!",
+                "Du-ne nem ké-nyes a ro-bog-pa-lác-ka...",
+                "N-nem... Dune félelem... Do-romb rúd...",
+                "Ba-rát... Dune fé-lem veled... Do-romb rúd...",
+                "Mi-ért tar-t ba-rát... Fájdalmat..?",
+                "Dune... Félelem köz-vet-len... Sér-tés dolog...",
+                "Mi-ért tar-t ba-rát... Klikk-bumm... Dune... Nem sze-ret...",
+                "Dune félelem... Dzsé-vé-tú?... Fájdalom... Nem ér-ti...",
+                "Igazságtalan har-cos... Dune... Nem sze-ret... Fegy-ver..."
             ],
             "tradermeetimpairedspeech": [
-                "Dune not under-stand... Word bet-ter! Fri-end word bad...",
-                "What is fri-end say..? Voice is muf-fle...",
-                "Dune word ba-d... Fri-end word bad... Bad bad!...",
-                "Du-ne hard talk... Fri-end talk... ba-d...",
-                "Dune no-t unde-r-stand... You...",
-                "Du-ne tro-uble hear fri-end!"
+                "Dune nem ér-ti... Szó job-ban! Ba-rát szó ros-sz...",
+                "Mit mond ba-rát..? Hang za-va-ros...",
+                "Dune szó ros-sz... Ba-rát szó ros-sz... Ros-sz ros-sz!...",
+                "Du-ne ne-héz be-szél... Ba-rát be-szél... ros-sz...",
+                "Dune nem ér-ti... Te...",
+                "Du-ne gond hal-lani ba-rá-tot!"
             ],
             "traderseehurt": [
-                "Fri-end hurt... Ngghhgrr... Take fix thin-g... Free...",
-                "Why hurt?.. Dune can... gi-ve li-fe thing... Free...",
-                "Fri-end i-nj-ure... Dune give thing-help... Free...",
-                "Th-is fri-end bo-dy bad... Dune ca-n gift fix...",
-                "Fri-end feel pain... Dune gift help..."
+                "Ba-rát sé-rült... Ngghhgrr... Vegyél gyó-gyí-tó dol-got... Inga-tis...",
+                "Mi-ért sé-rült?.. Dune tud... ad-ni élet dol-got... Ingatis...",
+                "Ba-rát sé-rült... Dune ad dolog-se-gít-ség... Ingatis...",
+                "Ez ba-rát test ros-sz... Dune tu-d aján-dék gyó-gyí-tás...",
+                "Ba-rát érzi fá-jdal-mat... Dune aján-dék se-gít-ség..."
             ],
             "traderlightbreak": [
-                "NNGGHHRR! Why fri-end steal! Go away! GGrrhhhhhh... BAD..!",
-                "GRRR! EVIL! GE-T OUT!",
-                "BAD! Grrrr... Fri-end bad... Bad! Lea-ve!",
-                "Dune NOT SEE! BAD FRI-END! GO AWAY... AW-AY!",
-                "Fri-end steal! Not fri-end..."
+                "NNGGHHRR! Mi-ért lop ba-rát! Men-j el! GGrrhhhhhh... ROS-SZ..!",
+                "GRRRR! GONOSZ! KI MEG-VEZ!",
+                "ROS-SZ! Grrrr... Ba-rát ros-sz... Ros-sz! Men-j el!",
+                "Dune NEM LÁSZ! ROS-SZ BA-RÁT! MENJ EL... EL!",
+                "Ba-rát lop! Nem ba-rát..."
             ],
             "tradermove": [
-                "Du-ne... Mo-ve..."
+                "Du-ne... Meg-mo-zog..."
             ],
             "tradermovefail": [
-                "Du-ne like cur-rent spot..."
+                "Du-ne sze-ret je-len-legi po-z-íci-ót..."
             ]
         }
     ],
     "notes": [
         [
             {
-                "Item1": "this is horrifying. there's so many corpses... im scared. why did they send so many of us here? i dont understand. i really dont understand. they knocked me out cold with some kind of dart and forced me into a pod to be sent here. i hate this planet.",
+                "Item1": "Ez borzalmas. Annyi holttest van itt... Félek. Miért küldtek ide ennyiünket? Nem értem. Tényleg nem értem. Valami nyíllal kiütöttek, aztán erőszakkal betuszkoltak egy kapszulába, hogy ide küldjenek. Utálom ezt a bolygót.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "I inquired others around the ability to see our physical status in our minds, and it turns out this is something shared by almost everyone else here. Quite interesting - this is not something we've ever been able to do back in our homes. Have we been implanted with something? There are no visible attachments on any of us. I have also noted that very few people here do not share this experience, seemingly lacking whatever lets us do this. Odd.",
+                "Item1": "Megkérdeztem másokat arról, hogy képesek vagyunk a saját fizikai állapotunkat az elménkben látni, és kiderült, hogy ezt szinte mindenki más is tapasztalja. Kifejezetten érdekes, odahaza ilyesmire sosem voltunk képesek. Beültettek volna belénk valamit? Egyiken sem látok semmiféle eszközt vagy csatlakozást. Azt is megfigyeltem, hogy néhányan nem osztoznak ebben az élményben, mintha hiányozna belőlük valami, ami ezt lehetővé teszi. Különös.",
                 "Item2": "Sprites/noteDrawings/puppet",
                 "Item3": "milky"
             },
             {
-                "Item1": "i keep losing weight. i need to eat more to stay in shape. all this running around makes you consume calories really fast. i guess i need to be full more often.",
+                "Item1": "Megállás nélkül fogyok. Többet kell ennem, ha formában akarok maradni. Ez a rengeteg rohangálás hihetetlenül gyorsan égeti a kalóriákat. Azt hiszem, gyakrabban kellene jóllaknom.",
                 "Item2": "Sprites/noteDrawings/underweight",
                 "Item3": "experiment"
             },
             {
-                "Item1": "this is horrible. this is fucking horrible. i cant do it anymore. this is a death mission. abandon all hope. there is no point to this",
+                "Item1": "Ez szörnyű. Kibaszottul szörnyű. Nem bírom tovább. Ez egy öngyilkos küldetés. Adj fel minden reményt. Semmi értelme ennek.",
                 "Item2": "Sprites/noteDrawings/x",
                 "Item3": "experiment"
             },
             {
-                "Item1": "i dont get why we're here. what for? i know im supposed to retrieve some kind of battery cell or something. im assuming others have the same mission. arent there more efficient ways of doing this? logically? why send us here. i miss my friends. i dont want to die.",
+                "Item1": "Nem értem, miért vagyunk itt. Mi célból? Tudom, hogy valamilyen akkumulátorcella-szerű dolgot kellene visszaszereznem. Gondolom, a többieknek is ugyanez a küldetésük. Nincsenek ennél hatékonyabb módszerek? Logikusan nézve? Miért küldtek minket ide? Hiányoznak a barátaim. Nem akarok meghalni.",
                 "Item2": "Sprites/noteDrawings/alone",
                 "Item3": "experiment"
             },
             {
-                "Item1": "i fell down. bad. my leg is mangled. this is really bad. trying to move at all is a pain. i need some painkillers for this.",
+                "Item1": "Elestem. Nagyon csúnyán. A lábam teljesen szétroncsolódott. Ez nagyon rossz. Már a mozgás gondolata is fájdalmat okoz. Szükségem lenne valami fájdalomcsillapítóra.",
                 "Item2": "Sprites/noteDrawings/brokenleg",
                 "Item3": "experiment"
             },
             {
-                "Item1": "i overheard our captors calling us a mutated amalgamation of a \"human, fox and rat\", whatever any of that means. how much is there being kept from us? information wise? the thought scares me. ive never considered anything being outside of where we were raised. and now im here. i cant wrap my head around all of this.\n(On the paper is what looks to be a self-portrait.)",
+                "Item1": "Hallottam, ahogy a fogvatartóink egy \"ember, róka és patkány mutálódott keverékének\" neveztek minket, bár fogalmam sincs ez mit jelenthet. Még mennyi mindent titkolnak el előlünk? Milyen információkat? Már a gondolat is rémisztő. Soha nem gondoltam arra, hogy létezhet bármi azon a helyen kívül, ahol felneveltek minket. Most pedig itt vagyok. Képtelen vagyok felfogni ezt az egészet.\n(A papíron egy önarckép rajz látható.)",
                 "Item2": "Sprites/noteDrawings/experiment",
                 "Item3": "experiment"
             },
             {
-                "Item1": "I have found drawing to be a decent escape to the situation I have found myself in. It seems all of us are struggling with our mental states, one way or another. It is nice to get a distraction from the harsh reality at times.",
+                "Item1": "A rajzolás kellemes menekülést jelent a helyzetből, amelyben találtam magam. Úgy tűnik, mindannyian valamilyen módon küzdünk a saját mentális állapotunkkal. Néha jó egy kis figyelemelterelés ettől a kegyetlen valóságtól.",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "the captors will get what they deserve.",
+                "Item1": "Az összes fogvatartóm megkapja majd amit érdemel.",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "planet is good .  eat a lot of good flesh .  dune happy\n(You can make out what looks like a very poorly made self-portrait.)",
+                "Item1": "Bolygó jó. Sok finom hús enni. Dune boldog.\n(A rajzon egy rendkívül rosszul sikerült önarckép látható.)",
                 "Item2": "Sprites/noteDrawings/dune",
                 "Item3": "dune"
             },
             {
-                "Item1": "The distribution of species here seems very disproportional. The Experiments are everywhere, yet other species like ours seem to be much lesser in numbers. Odd... Either way, I dislike the amount of casualties here. More of us need to be helped.",
+                "Item1": "Az itt található fajok eloszlása nagyon aránytalannak tűnik. Az Experimentek mindenütt ott vannak, míg más fajok, például a miénk, sokkal kisebb számban fordulnak elő. Fura... Akárhogy is, nem tetszik a rengeteg áldozat. Többünkön kellene segíteni.",
                 "Item2": "Sprites/noteDrawings/milky",
                 "Item3": "milky"
             },
             {
-                "Item1": "I was performing a self check-up following a painful incident when I noticed a dark, nodular bump on my skin. It appeared irregular in shape and was oddly multicoloured and variegated. I estimated its diameter to be approximately eight millimetres. Upon further inspection, I found several more in various locations on my body. I corresponded with a younger friend and they seemed to have none, but my older friend had many more. Should I keep track of the evolution of this potential malignancy?",
+                "Item1": "Egy fájdalmas incidens után önvizsgálatot végeztem, amikor észrevettem egy sötét, göbös kinövést a bőrömön. Szabálytalan alakúnak tűnt, és furcsán tarka színezetű volt. Az átmérőjét körülbelül nyolc milliméterre becsültem. További vizsgálat során még több hasonlót találtam a testem különböző részein. Beszéltem egy fiatalabb barátommal, nála egy sem volt, viszont egy idősebb ismerősömön jóval több ilyen elváltozás jelent meg. Érdemes lenne nyomon követnem ennek a lehetséges rosszindulatú betegségnek a fejlődését?",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "i didnt want to do it. they had a chest drain. what could i do? drown in my own blood? all i had was a stick of dynamite... if only i could be home, even just listening to the training radio, i would give anything. its not my fault. its not my fault.",
+                "Item1": "Nem akartam megtenni. Mellkasi drén kellett volna. Mit tehettem volna? Megfulladni a saját véremben? Csak egy rúd dinamitom volt... Bárcsak otthon lehetnék, akár csak a kiképzőrádiót hallgatva. Bármit megadnék érte. Nem az én hibám. Nem az én hibám.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "i love this place! i still meet new creatures, they are so sweet! there are so many cool things here! i will never go back to the lab, long live the cave!",
+                "Item1": "Imádom ezt a helyet! Még mindig új lényekkel találkozom, olyan kedvesek! Rengeteg menő dolog van itt! Soha nem megyek vissza a laborba. Éljen a barlang!",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "dune love tasting friend .  all friend taste different .  dark fur friend is stiff .  light fur friend is chewy .  what dune me taste like ?",
+                "Item1": "Dune szeret barátot kóstolni .    Minden barát más ízű.    Sötét bundás barát kemény  . Világos    bundás barát rágós.   Vajon Dune milyen ízű  ?",
                 "Item2": "",
                 "Item3": "dune"
             },
             {
-                "Item1": "hugging others makes me happier... but some of survivors refuse hugs, i think they can be appeased somehow. also sleeping next to them is much better than on the cold floor alone.",
+                "Item1": "Másokat megölelni boldogabbá tesz... bár néhány túlélő nem szereti az ölelést, szerintem valahogy meg lehet őket győzni. Ráadásul mellettük aludni sokkal jobb, mint egyedül feküdni a hideg padlón.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "To anyone who finds this, they can and will control you, even in this hell. With no previous alert I started to hear a loud alarm inside me, I could see a message saying \"DEPTH UNSATISFACTORY\" with red flashing lights materializing in the corner of my vision.\n\nI started running, panicked, without knowing why they would do this. Only after I went into another region of this cave network it stopped. They know how much time you are spending here, they know that you'll be frightened, and they want you to die. This is all a mass genocide.",
+                "Item1": "Aki ezt megtalálja: képesek irányítani téged, még ebben a pokolban is. Minden előjel nélkül hangos riasztást kezdtem hallani a fejemben, miközben egy üzenet jelent meg a szemem sarkában: \"DEPTH UNSATISFACTORY\", vörösen villogó fényekkel. \n\nPánikba esve futni kezdtem, anélkül hogy értettem volna, miért teszik ezt. Csak akkor állt le, amikor a barlangrendszer egy másik régiójába jutottam. Tudják, mennyi időt töltesz itt. Tudják, hogy félni fogsz. És azt akarják, hogy meghalj. Ez népirtás.",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "i found a weapon. a firearm. gosh... im not used to operating this thing... i shouldve been more careful during the training sessions... i have zero idea of how ive even been sent here, being this unprepared, instead of getting culled. i almost shot someone by accident. i shouldve turned on the gun safety... who am i to know. the others tend to really panic when they see you holding a weapon in hand. so maybe it would be best to put it inside of something, so that they dont see it. they think youd shoot them, they dont know your intentions. well, id think the same if someone were to point a gun at me.",
+                "Item1": "Találtam egy fegyvert. Egy lőfegyvert. Istenem... nem vagyok hozzászokva ezek kezeléséhez. Jobban kellett volna figyelnem a kiképzésen... Fogalmam sincs, hogyan küldhettek ide ennyire felkészületlenül ahelyett, hogy egyszerűen selejteztek volna. Majdnem véletlenül lelőttem valakit. Be kellett volna kapcsolnom a biztosítékot... De honnan kellett volna tudnom? A többiek teljesen bepánikolnak, ha fegyvert látnak a kezedben. Talán jobb lenne elrejteni valamilyen tárolóban, hogy ne lássák. Azt hiszik, rájuk akarsz lőni. Nem ismerik a szándékaidat. Bár valószínűleg én is ugyanezt gondolnám, ha valaki rám szegezne egy fegyvert.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "im so mad at myself for acting like a dumbass with the others up there... now all of the survivors i find chase me away from their pods... man, if you knew how hard they were swearing... they tried to scratch me... and im just saying to myself: \"okay, im sorry. for fucks sake, do you realize that currently every life matters? theres no room for hurting and killing each other.\". i wish i was a better person... its my own fault.",
+                "Item1": "Annyira dühös vagyok magamra, amiért úgy viselkedtem, mint egy idióta a többiekkel odafent... Most minden túlélő elkerget a kapszulájától... Ha tudnád, hogyan káromkodtak... Megpróbáltak megkarmolni... Én meg csak ezt hajtogattam hogy \"Rendben, sajnálom. Az isten szerelmére, nem látjátok, hogy most minden egyes élet számít? Nincs helye annak, hogy bántsuk vagy megöljük egymást.\". Bárcsak jobb lennék... Az én hibám.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "It's full of all kinds of critters that constantly roam around everywhere. I'm a bit of a pacifist, so I try running away from them, rather than fighting them, as I don't know who's gonna kill whom first... After all, the wounds they leave in me hurt like hell... I don't know anymore... Do our captors even know what we're going through down here?",
+                "Item1": "Tele van mindenféle kis lénnyel, amelyek állandóan mindenfelé kóborolnak. Én eléggé békés természetű vagyok, ezért inkább elfutok előlük, mintsem harcoljak velük, mert nem tudom, végül ki öl meg kit előbb... Az utánuk maradó sebek pedig pokolian fájnak... Már nem is tudom... Vajon a fogvatartóink egyáltalán tudják, min megyünk keresztül odalent?",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "I'm feeling lonely... so I decided to distract myself:\nI found some kind of miniature fax that I was able to crush open, and I pulled its paper sheets out. Then I took a stick, and squeezed one of the glowy fruits onto it. It turned out like a brush and drawing canvas! If only you know... I started drawing alternate realities where we're free and live peacefully together; without those scientist scumbags... I felt so happy, and cried for a bit.\nBut now I have to go: feeling peckish! Maybe if we meet each other, I'll draw you, too...? I got really good at using the \"brush\". I'll try teaching the others to draw, too...",
+                "Item1": "Magányosnak éreztem magam... ezzel eltereltem a figyelmemet.\nTaláltam valami apró faxszerű eszközt, amit sikerült feltörnöm, és kiszedtem belőle a papírlapokat. Ezután fogtam egy botot, és ráfacsartam az egyik világító gyümölcs levét. Olyan lett, mint egy ecset és egy vászon egyszerre! Ha tudnád... alternatív valóságokat kezdtem rajzolni, ahol szabadok vagyunk, és békében élünk együtt, azok nélkül a mocskos tudósok nélkül... Olyan boldognak éreztem magam, hogy egy kicsit sírtam is.\nDe most mennem kell: megéheztem! Talán ha egyszer találkozunk, téged is lerajzollak...? Már egész ügyes lettem az \"ecset\" használatában. A többieket is megpróbálom megtanítani rajzolni...",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "(There are colorful graphics on the paper, and it doesn't appear to be handwritten)\n<>\nSoup! Try our Specialty Pot - just put the meat and ingredients in and simmer. Don't worry. You'll agree it's worth its weight in flavor. Can be stored for up to 737 years!",
+                "Item1": "(A papíron színes rajz láthatók, a szöveg nem kézzel írott)\n<>\nLeves! Próbáld ki különleges főzőedényünket - csak tedd bele a húst és a hozzávalókat, majd hagyd lassan főni. Ne aggódj, egyet fogsz érteni: minden falat megéri az árát. Akár 737 évig is eltartható!",
                 "Item2": "",
                 "Item3": ""
             }
         ],
         [
             {
-                "Item1": "ugh, this place sucks. i keep being bitten by random spiders i cant see in time. i think theyre venomous, as they leave nasty looking infected wounds in me... the glowplant fruit do help with those though",
+                "Item1": "Pfu, ez a hely borzalmas. Folyton valami véletlenszerű pók harapdál meg, amit nem veszek észre időben. Szerintem mérgezőek, mert ronda, elfertőződött sebeket hagynak rajtam... Az izzónövény gyümölcsei viszont segítenek rajtuk.",
                 "Item2": "Sprites/noteDrawings/spider",
                 "Item3": "experiment"
             },
             {
-                "Item1": "things are going good for me. tasty food in my belly and maybe a mushtail or two makes me happy. the traders smile back at me too! i just hate seeing myself bleed, it scares me",
+                "Item1": "Jól mennek a dolgok. Finom étel van a hasamban, és egy-két mushtail is boldoggá tesz. A kereskedők is visszamosolyognak rám! Csak azt utálom, amikor vérzek. Az megijeszt.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "the red blinking lights in the dark are spike traps. watch out for them. please. please. someone just walked into one in the distance, i just heard a yelp and silence after. stay safe",
+                "Item1": "A sötétben villogó piros fények tüskecsapdák. Vigyázzatok velük. Kérlek. Kérlek. Valaki épp belesétált egybe a távolban. Csak egy fájdalmas kiáltást hallottam, aztán csendet. Maradjatok biztonságban.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "its cold here. so cold. much colder than our previous home. honestly, i like it. bathing in the pools feels nice, its refreshing. im liking this vacation",
+                "Item1": "Hideg van itt. Nagyon hideg. Sokkal hidegebb, mint az előző otthonunk. Őszintén szólva tetszik. Jó érzés fürödni a tavakban, felfrissít. Kezdem élvezni ezt a \"nyaralást\"",
                 "Item2": "Sprites/noteDrawings/pool",
                 "Item3": "experiment"
             },
             {
-                "Item1": "i met up with someone, we agreed to try to go out to the surface through one of those holes to the outside. my friend stepped out first, and immediately they started stumbling in shock. they seemed to be in a lot of pain. they vomited a bunch, then collapsed and stopped breathing soon after. their skin started blistering too, especially around the head and neck. something is preventing us from leaving. im scared.",
+                "Item1": "Találkoztam valakivel, és megegyeztünk, hogy megpróbálunk kijutni a felszínre az egyik kivezető nyíláson keresztül. A barátom lépett ki először, és azonnal megtántorodott a döbbenettől. Úgy tűnt, hatalmas fájdalmai vannak. Rengeteget hányt, aztán összeesett, és nem sokkal később leállt a légzése. A bőre is felhólyagosodott, különösen a fején és a nyakán. Valami megakadályozza, hogy elhagyjuk ezt a helyet. Félek.",
                 "Item2": "Sprites/noteDrawings/radiation",
                 "Item3": "experiment"
             },
             {
-                "Item1": "Getting wet seems to be rather dangerous if you're not careful. The temperature here is much lower than at our home, and it seems being drenched for too long can get us in a hypothermic state. Try doing some physical exercise if you need to warm up quickly, I've discovered that helps.",
+                "Item1": "A megázás meglehetősen veszélyesnek tűnik, ha nem vagy elég óvatos. Az itteni hőmérséklet sokkal alacsonyabb, mint az otthonunkban volt, és úgy látszik, hogy ha túl sokáig maradunk csuromvizesek, könnyen kihűléses állapotba kerülhetünk. Ha gyorsan fel kell melegedned, próbálj valamilyen testmozgást végezni. Felfedeztem, hogy az segít.",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "i really need to stop losing my lights. anything does the job, even those weird glowy plant things. i keep leaving and forgetting about them, then tripping up and getting hurt by accident. not good.",
+                "Item1": "Komolyan abba kell hagynom, hogy folyton elveszítsem a fényforrásaimat. Bármi megteszi, még azok a furcsa világító növények is. Mindig lerakom őket valahová, aztán megfeledkezem róluk, végül pedig elesek a sötétben és megsérülök. Nem jó.",
                 "Item2": "Sprites/noteDrawings/glowplant",
                 "Item3": "experiment"
             },
             {
-                "Item1": "light is valuable resource here, especially as it gets darker the further we go. dont want to accidentally step on a trap. with the carcass of a spider and pieces of glowplant, i can fashion a headlamp so my hands remain free. in a pinch lightbulbs in the pods seem to run on a depleted battery, and can be broken off with relative ease, much to the aggression of the pods owner",
+                "Item1": "A fény értékes erőforrás errefelé, különösen mert egyre sötétebb lesz, ahogy mélyebbre jutunk. Nem szeretnék véletlenül rálépni egy csapdára. Egy pók teteméből és néhány izzónövény-darabból lehet rögtönzött fejlámpát készíteni, így a kezeid szabadon maradnak. Vészhelyzetben a kapszulákban található villanykörték is használhatók; úgy tűnik, lemerült akkumulátorokról működnek, és viszonylag könnyen leszerelhetők. Bár a kapszula tulajdonosa ezt általában nem nézi jó szemmel.",
                 "Item2": "Sprites/noteDrawings/lightbulb",
                 "Item3": "experiment"
             },
             {
-                "Item1": "theres a lot of pods out here just like the one i woke up in. i got in one through the window but i stepped on the broken glass. had to be really careful, but i pulled it out of my paw. need to make sure i clear the shards next time.",
+                "Item1": "Rengeteg kapszula van itt, pont olyanok, mint amiben felébredtem. Egyszer bemásztam az egyikbe az ablakon keresztül, de ráléptem a törött üvegre. Nagyon óvatosnak kellett lennem, de végül kiszedtem a mancsomból. Legközelebb ügyelnem kell rá, hogy előbb eltakarítsam a szilánkokat.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "Humans do strange things. You should never trust them to be nice.\nBut you can trust them to keep you alive.<>\nI broke my arm once, and they put it in a “cast.” I did not like it. It was heavy and stopped my arm from moving at all. It seemed they made it worse on purpose, and they made me wear it for a long time.<>\nThey removed it one day, and my arm was fine.<>\nThe humans made it worse, so it could get better.<>\n\nI think they did something similar to Jumper's head.\nJumper used to scream and cry a lot. One time they hurt themselves, and the humans took them away.<>\nJumper is back now. They don't cry anymore. They don't talk. They look sleepy all the time. Their head is like my arm used to be. I can't see any “casts” around it, and their behavior worries me, but at least they don't hurt themselves anymore. I hope the humans undo whatever they did once Jumper's head is fixed.<>\n\nI miss them.",
+                "Item1": "Az emberek furcsa dolgokat csinálnak. Soha ne bízz bennük abban, hogy kedvesek lesznek.\nDe abban megbízhatsz, hogy életben tartanak.<>\nEgyszer eltörtem a karomat, és egy \"gipszbe\" tették. Nem szerettem. Nehéz volt, és egyáltalán nem engedte mozogni a karomat. Úgy tűnt, mintha szándékosan rosszabbá tették volna a helyzetet, ráadásul sokáig kellett viselnem.<>\nEgy nap levették rólam, és a karom teljesen rendben volt.<>\nAz emberek rosszabbá tették, hogy később jobb lehessen.<>\n\nAzt hiszem, valami hasonlót csináltak Jumper fejével is.\nJumper régen sokat sikított és sírt. Egyszer megsérült, és az emberek elvitték.<>\nJumper most visszatért. Már nem sír. Nem beszél. Állandóan álmosnak tűnik. A feje olyan, mint régen a karom volt. Nem látok rajta semmilyen \"gipszet\", és a viselkedése aggaszt, de legalább már nem bántja magát. Remélem, az emberek visszafordítják, amit tettek vele, amikor a feje meggyógyul.<>\n\nAnnyira hiányzik.",
                 "Item2": "",
                 "Item3": "milky"
             }
         ],
         [
             {
-                "Item1": "apparently those boxes with the weird computers next to them can be opened if you spill some red blood on them. it has to specifically be red blood, otherwise it wont work. it has some crates inside, you can open them and take stuff with you. useful.",
+                "Item1": "A jelek szerint azok a ládák, amelyek mellett furcsa számítógépek állnak, kinyithatók, ha vörös vért öntesz rájuk. Kifejezetten vörös vérnek kell lennie, különben nem működik. Belül további ládák vannak, amelyeket ki lehet nyitni, és el lehet vinni a bennük lévő holmikat. Hasznos.",
                 "Item2": "Sprites/noteDrawings/bloodbag",
                 "Item3": "experiment"
             },
             {
-                "Item1": "Investigating the chemical composition of the different colored blood bags I have found here, it seems they are considerably different in their composition. The red blood is completely different than ours and the blood that the creatures here possess. It seems to be somewhat metallic in composition for whatever reason, how odd. Better not use that on ourselves.",
+                "Item1": "A különböző színű vértasakok kémiai összetételét vizsgálva arra jutottam, hogy jelentősen eltérnek egymástól. A vörös vér teljesen más, mint a miénk vagy az itt élő lények vére. Valamilyen okból részben fémes összetételűnek tűnik. Milyen különös. Jobb, ha nem használjuk magunkon.",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "(There is a poorly made drawing of what looks to be one of your captors. They are holding what you can make out as a taser. Their face is scratched out with a big X. The weapon brings back horrible memories.)",
+                "Item1": "(A papíron egy ügyetlenül rajzolt alak látható, amely az egyik fogvatartónkra emlékeztet. A kezében valami sokkolószerű eszköz van. Az arcát egy nagy X-szel áthúzták. A fegyver borzalmas emlékeket idéz fel.)",
                 "Item2": "Sprites/noteDrawings/scientist",
                 "Item3": ""
             },
             {
-                "Item1": "i almost drowned just a moment ago. ive never swam before, and its very exhausting. its hard to keep myself above the surface when im tired. i imagine sinking forever to be pretty painful... be careful.",
+                "Item1": "Majdnem megfulladtam az imént. Még soha nem úsztam korábban, és elképesztően fárasztó. Nehéz a felszínen maradni, amikor az ember kimerült. El tudom képzelni, milyen szörnyű lehet örökké lefelé süllyedni... Legyetek óvatosak.",
                 "Item2": "Sprites/noteDrawings/drown",
                 "Item3": "experiment"
             },
             {
-                "Item1": "overhearing a little bit from our captors, apparently the cargo we are supposed to get is some kind \"advanced energy source\". something about storing a large amount of power and distributing it \"wirelessy\". i do not know what most of that means, but maybe it will be useful to know. stay safe",
+                "Item1": "Véletlenül kihallgattam valamit a fogvatartóinktól. Állítólag a rakomány, amit meg kell szereznünk, valamiféle \"fejlett energiaforrás\". Beszéltek valamiről, ami hatalmas mennyiségű energiát tárol és \"vezeték nélkül\" osztja szét. Nem igazán értem, mit jelent, de talán hasznos lehet spekulálni. Vigyázzatok magatokra.",
                 "Item2": "",
                 "Item3": "experiment"
             },
             {
-                "Item1": "Recently found a drill of sorts, but it's missing a few parts. I can't seem to figure out what it needs, aside from the covering panel for all the mechanisms... Could prove helpful if I was to get it to a working state.",
+                "Item1": "Nemrég találtam egy fúrószerű eszközt, de hiányzik belőle néhány alkatrész. Nem tudom kitalálni, mire van szüksége, leszámítva a mechanikát fedő burkolatot... Hasznos lehetne, ha sikerülne működőképes állapotba hoznom.",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "glowing woter taste bed",
+                "Item1": "világítós víz rossz íz.",
                 "Item2": "",
                 "Item3": "dune"
             },
             {
-                "Item1": "It hurts me to admit, but the frailty of my kind cannot be denied. Luckily, I have found a wonderful container that outright nullifies the weight of most items, allowing me to carry more supplies than I'd normally be able to.\nIt runs on batteries, and that worries me. I am not sure what will happen once the power runs out, so I'll check it now, to be safe.<>\nI don't want it to become heavy mid-jump. I have an almost dead battery on me.\nTime to see how the bag behaves once its power runs out.\n\n(The rest of the note is unreadable; whatever text was written below is covered up by a copious amount of dried blood.)",
+                "Item1": "Be kell vallanom, a fajom törékenysége tagadhatatlan. Szerencsére találtam egy csodálatos tárolót, amely szinte teljesen semlegesíti a legtöbb tárgy súlyát, így sokkal több felszerelést vihetek magammal, mint normál esetben.\nElemekkel működik, és ez kicsit aggaszt. Nem tudom, mi történik, ha kifogy belőle az energia, ezért tesztelgetem, biztos, ami biztos.<>\nNem akarom, hogy ugrás közben legyen hirtelen nehéz. Van egy majdnem lemerült aksim.\nIdeje megnézni, mit csinál a táska ha lemerül.\n\n(A jegyzet további része olvashatatlan; a lentebb írt szöveget nagy mennyiségű alvadt vér takarja el.)",
                 "Item2": "",
                 "Item3": "milky"
             },
             {
-                "Item1": "Not even out of this rocky hellscape, and I already feel like death is near,\nAll they gave me was a shitty torch that didnt even last an hour; not even any safety gear to help cushon these falls i've been taking.\n\nFUCK ME, I feel like a ball from one of those gambling machines I would see those humans using!\n\nI think I might be slowly dying, ever since the last fall, I've been feeling pretty heavy headed, I feel tired; but I feel if i sleep, I will die.\n\nGod save me.\nFUCK, man.\nI really don't want to die, not like this..\nThough what even is the point of all this?\nI don't even have a name for myself, just a tag..\nFuck...",
+                "Item1": "Még ki sem jutottam ebből a sziklás pokolból, és máris úgy érzem, hogy közel a halál.\nMindössze egy szar zseblámpát adtak, ami egy órát sem bírt ki, és semmiféle védőfelszerelést nem kaptam, ami tompítana eséseket.\n\nA BÜDÖS ÉLETBE, úgy érzem magam, mint egy golyó azokban a szerencsejáték-gépekben, amelyeket embereknél láttam.\n\nAzt hiszem, lassan haldoklom. Az utolsó esés óta furcsán nehéznek érzem a fejemet. Fáradt vagyok, de attól félek, hogy ha elalszom, meghalok.\n\nIstenem, segítsen rajtam.\nFaszom.\nNagyon nem akarok meghalni. Nem így..\nMi értelme van ennek az egésznek?\nMég saját nevem sincs, csak egy kibaszott azonosítóm...\nBaszki...",
                 "Item2": "",
                 "Item3": "milky"
             }
